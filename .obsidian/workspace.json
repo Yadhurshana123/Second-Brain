@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai-ide-implementation-guides/frontend-imple.md",
+                "file": "ai-ide-implementation-guides/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "frontend-imple"
+              "title": "README"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ai-ide-implementation-guides/frontend-imple.md",
+                "file": "ai-ide-implementation-guides/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from frontend-imple"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -186,9 +186,11 @@
   "active": "3a85e51aa5de319f",
   "lastOpenFiles": [
     "ai-ide-implementation-guides/backend-imple.md",
+    "ai-ide-implementation-guides/frontend-imple.md",
+    "-001-start here/Untitled.md",
+    "-001-start here",
     "07-modules/customers/features/customer-addresses/feature-spec.md",
     "ai-ide-implementation-guides/README.md",
-    "ai-ide-implementation-guides/frontend-imple.md",
     "ai-ide-implementation-guides",
     "05-backend/backend-folder-structure.md",
     "14-ai-ide-rules-implementation-guides-v2/backend-feature-implementation-prompt.md",
@@ -213,13 +215,11 @@
     "09-security-and-compliance/audit-requirements.md",
     "07-modules/audit-compliance/features/audit-logs/feature-spec.md",
     "09-security-and-compliance/session-rules.md",
-    "09-security-and-compliance/sensitive-actions.md",
     "09-security-and-compliance",
     "07-modules/tenant-management/features/tenants",
     "07-modules/tenant-management/features/outlets",
     "07-modules/tenant-management/features/document-sequences",
     "07-modules/tenant-management/features",
-    "07-modules/tenant-management",
-    "07-modules/tax/features/tax-rates"
+    "07-modules/tenant-management"
   ]
 }
