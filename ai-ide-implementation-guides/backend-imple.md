@@ -590,6 +590,22 @@ First output:
 
 Then implement only this feature.
 
+After completing the feature implementation, do not stop.
+
+Next, read:
+../ai-ide-implementation-guides/feature-unit-test-authoring-guide.md
+
+Then write unit tests for this implemented feature only.
+
+Before writing tests, output:
+1. Test understanding summary
+2. Backend test files to create/update
+3. Service-layer tests required
+4. Repository/mock requirements
+5. Tenant isolation, RBAC, feature entitlement, permission, validation, and transaction test cases
+6. Edge cases and failure cases
+
+Then implement the unit tests.
 ```
 
   
